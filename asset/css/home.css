@@ -1,0 +1,10 @@
+.tombol_link {
+  position: absolute;
+  right: 0;
+}
+.container {
+  position: relative;
+}
+.main {
+  width: 80%;
+}

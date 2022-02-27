@@ -1,0 +1,9 @@
+.main {
+  position: relative;
+  width: 50%;
+  height: 430px;
+  padding: 4px;
+}
+table {
+  margin: 0 auto;
+}

@@ -1,0 +1,15 @@
+.main {
+  position: relative;
+  width: 80%;
+  height: 430px;
+  padding: 10px 20px;
+}
+table {
+  margin: 0 auto;
+}
+.button_link {
+  position: absolute;
+  margin-top: 20px;
+  right: 0;
+  margin-right: 40px;
+}

@@ -1,0 +1,9 @@
+.container {
+  position: relative;
+  width: 40%;
+  height: 430px;
+  padding: 10px 20px;
+}
+table {
+  margin: 0 auto;
+}
